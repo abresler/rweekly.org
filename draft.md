@@ -55,6 +55,7 @@ Hello and welcome to this new issue!
 
 + [Announcing ShinyTester - a package that helps you build Shiny apps](http://amitkohli.com/announcing-shinytester-a-package-that-helps-you-build-shiny-apps/)
 + [roxygen2 6.0.0](https://blog.rstudio.org/2017/02/01/roxygen2-6-0-0/)
++ [nazihuntR - tools to work with the Institute of National Remembrance Nazi data](https://github.com/abresler/nazihuntR) 
 
 ### New Releases
 
